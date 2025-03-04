@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jorge Zupirolli</h1>
 <h3 align="center">A Software Engineer from Brazil</h3>
 
-- 🌱 I’m currently learning **Docker, MySQL, NodeJS, Typescript**
+- I'm currently working at XP Inc. as a Backend Engineer.
 
-- 💬 Ask me about **React, Nextjs**
+- In my daily work, I develop using C# .NET, Docker, and MongoDB.
+
+- In my side projects, I explore FullStack projects using React and Next.js.
 
 - 📫 How to reach me **jorgezupirolli@gmail.com**
 
